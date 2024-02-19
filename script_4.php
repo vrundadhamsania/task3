@@ -1,5 +1,5 @@
 <?php
-$array=array("prinsi","komal","lipsa");
+$array=array("vrunda","aesha","sarjita");
 print_r(array_reverse($array));
 
 ?>
