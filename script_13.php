@@ -1,5 +1,5 @@
 <?php
-$array=array("prinsi",56,"neno",89.89);
+$array=array("vrunda",56,"neno",89.89);
 print_r($array);
 print_r(array_shift($array));
 echo "<br>";
