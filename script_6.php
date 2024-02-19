@@ -1,4 +1,4 @@
 <?php
-$array=array("prinsi",23,"komal",56.78);
-print_r(array_search("komal",$array));
+$array=array("vrunda",23,"yashvi",56.78);
+print_r(array_search("yashvi",$array));
 ?>
