@@ -1,5 +1,5 @@
 <?php
-$student=array("name"=>"prinsi","age"=>23,"city"=>"balapar");
+$student=array("name"=>"vrunda","age"=>23,"city"=>"upleta");
 $result=array_keys($student);
 print_r($result);
 
