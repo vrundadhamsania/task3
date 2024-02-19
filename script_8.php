@@ -1,4 +1,4 @@
 <?php
-$array=array("name"=>"prinsi","age"=>23,"city"=>"rajkot");
+$array=array("name"=>"vrunda","age"=>23,"city"=>"rajkot");
 print_r(array_key_exists("age",$array));
 ?>
